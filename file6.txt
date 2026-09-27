@@ -1,0 +1,3 @@
+User opened the website
+Python program started
+User logged in
